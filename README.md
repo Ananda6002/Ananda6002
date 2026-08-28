@@ -6,7 +6,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 
 I enjoy working across the frontend and backend, building applications with modern web technologies, and continuously improving my development and problem-solving skills.
 
-🌐 [Portfolio](my-portfolio-ten-kappa-bss1fwfxsd.vercel.app)
+🌐 [Portfolio](https://my-portfolio-ten-kappa-bss1fwfxsd.vercel.app)
 
 ### 🛠️ Skills
 
@@ -18,9 +18,13 @@ I enjoy working across the frontend and backend, building applications with mode
 
 ### 🚀 Projects
 
-* **SmartBus** – Bus search, seat selection and ticket booking system
-* **ServiceConnect** – Platform connecting users with local service providers
-* **Complaint Management System** – Web application for managing and tracking complaints
+* **SmartBus** – A full-stack bus booking platform designed to provide a smooth bus search, seat selection, and ticket booking experience.
+  
+* **ServiceConnect** – A MERN-based platform that connects users with local service providers and allows users to discover and interact with available services.
+
+  [Live Demo](https://service-connect-fvva.vercel.app)
+  
+* **Complaint Management System** – A full-stack complaint management application where users can submit complaints with descriptions, images, and location details while administrators can manage complaints and assign workers.
 
 ### 📚 Currently Learning
 
@@ -30,8 +34,8 @@ I enjoy working across the frontend and backend, building applications with mode
 
 ### 🤝 Connect With Me
 
-* [LinkedIn:](https://www.linkedin.com/in/ananda-j-48b234293/)
-* [Email:](anandaj6002@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/ananda-j-48b234293/)
+* [Email](anandaj6002@gmail.com)
 
 ---
 
