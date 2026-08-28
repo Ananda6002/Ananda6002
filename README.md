@@ -6,7 +6,7 @@ I'm a Computer Science & Engineering student passionate about building real-worl
 
 I enjoy working across the frontend and backend, building applications with modern web technologies, and continuously improving my development and problem-solving skills.
 
-🌐 Portfolio: [my-portfolio-ten-kappa-bss1fwfxsd.vercel.app](https://my-portfolio-ten-kappa-bss1fwfxsd.vercel.app/)
+🌐 Portfolio
 
 ### 🛠️ Skills
 
