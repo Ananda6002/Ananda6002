@@ -30,8 +30,8 @@ I enjoy working across the frontend and backend, building applications with mode
 
 ### 🤝 Connect With Me
 
-* [LinkedIn:] https://www.linkedin.com/in/ananda-j-48b234293/
-* [Email:] anandaj6002@gmail.com
+* [LinkedIn:](https://www.linkedin.com/in/ananda-j-48b234293/)
+* [Email:](anandaj6002@gmail.com)
 
 ---
 
