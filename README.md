@@ -26,6 +26,8 @@ I enjoy working across the frontend and backend, building applications with mode
   
 * **Complaint Management System** – A full-stack complaint management application where users can submit complaints with descriptions, images, and location details while administrators can manage complaints and assign workers.
 
+**[View More Projects](https://github.com/Ananda6002?tab=repositories)**
+
 ### 📚 Currently Learning
 
 * Data Structures & Algorithms
