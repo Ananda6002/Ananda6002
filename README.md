@@ -44,4 +44,4 @@ I enjoy working across the frontend and backend, building applications with mode
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!!
