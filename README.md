@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/Ananda6002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+real-world+web+applications;MERN+Stack+Developer;Solving+problems+with+technology;Learning+DSA+%26+REST+APIs+every+day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+real-world+web+applications;MERN+Stack+Developer;Solving+problems+with+technology;Learning+DSA+%26+REST+APIs" alt="Typing SVG" />
   </a>
 </p>
 
