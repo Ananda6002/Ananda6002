@@ -85,12 +85,6 @@ I enjoy working across the **frontend and backend**, building applications with 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananda6002&theme=merko&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ananda6002">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananda6002&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
 ---
 
 ## 📚 Currently Learning
