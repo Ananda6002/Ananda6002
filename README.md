@@ -86,7 +86,9 @@ I enjoy working across the **frontend and backend**, building applications with 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananda6002&bg_color=0a0f0d&color=38ef7d&line=11998e&point=f9d423&area=true&area_color=11998e&hide_border=true" alt="activity graph" />
+  <a href="https://github.com/Ananda6002">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananda6002&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
 </p>
 
 ---
