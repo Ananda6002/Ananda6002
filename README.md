@@ -8,9 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ananda6002?tab=followers"><img src="https://img.shields.io/github/followers/Ananda6002?style=for-the-badge&logo=github&color=11998e" alt="followers" /></a>
-</p>
+
 
 <p align="center">
   <a href="https://my-portfolio-ten-kappa-bss1fwfxsd.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-11998e?style=for-the-badge" alt="Portfolio" /></a>
