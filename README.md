@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/Ananda6002.svg?style=for-the-badge&label=Profile%20views&color=11998e" alt="views" />
   <a href="https://github.com/Ananda6002?tab=followers"><img src="https://img.shields.io/github/followers/Ananda6002?style=for-the-badge&logo=github&color=11998e" alt="followers" /></a>
 </p>
 
