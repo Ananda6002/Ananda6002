@@ -79,7 +79,10 @@ I enjoy working across the **frontend and backend**, building applications with 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananda6002&theme=merko&hide_border=true" alt="streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Ananda6002&theme=merko&hide_border=true&timezone=Asia%2FKolkata"
+    alt="GitHub Current and Longest Streak"
+  />
 </p>
 
 ---
