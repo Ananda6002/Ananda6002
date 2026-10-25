@@ -32,6 +32,7 @@ I enjoy working across the **frontend and backend**, building applications with 
   <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,nodejs,express,mongodb,git,github,vscode&perline=12" alt="skills" />
 </p>
 
+
 | | |
 | :-- | :-- |
 | 💬 **Languages** | C++, Python (basics), JavaScript |
