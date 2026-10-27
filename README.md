@@ -60,7 +60,7 @@ I enjoy working across the **frontend and backend**, building applications with 
     </td>
     <td width="33%" valign="top">
       <h3>📋 Complaint Management</h3>
-      <p>Users submit complaints with descriptions, images, and location; admins manage them and assign workers.</p>
+      <p>Users submit complaints with descriptions, images, and location. Admins manage them and assign workers.</p>
       <img src="https://img.shields.io/badge/Full--Stack-d4a017?style=flat-square" />
     </td>
   </tr>
