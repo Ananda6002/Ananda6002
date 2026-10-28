@@ -81,7 +81,7 @@ I enjoy working across the **frontend and backend**, building applications with 
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Ananda6002&theme=merko&hide_border=true&timezone=Asia%2FKolkata"
+    src="https://streak-stats.demolab.com/?user=Ananda6002&theme=merko&hide_border=true&timezone=Asia%2FKolkata&v=2"
     alt="GitHub Current and Longest Streak"
   />
 </p>
